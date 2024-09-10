@@ -1,0 +1,24 @@
+.hero-section {
+    background-image: url('https://img.freepik.com/free-vector/realistic-travel-background-with-elements_52683-77784.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725840000&semt=ais_hybrid'); /* Adjust the path if using public folder */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 20px; /* Adjust padding as needed */
+  }
+  
+  .hero-content {
+    position: relative;
+    z-index: 1;
+  }
+  
+  .hero-section h2 {
+    font-size: 3rem;
+    margin: 0;
+  }
+  
+  .hero-section p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
