@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FSD-Tasks-Travel/static/css/main.ea99deb8.css",
+    "main.js": "/FSD-Tasks-Travel/static/js/main.6e7f9c8f.js",
+    "static/js/453.8d4e7591.chunk.js": "/FSD-Tasks-Travel/static/js/453.8d4e7591.chunk.js",
+    "index.html": "/FSD-Tasks-Travel/index.html",
+    "main.ea99deb8.css.map": "/FSD-Tasks-Travel/static/css/main.ea99deb8.css.map",
+    "main.6e7f9c8f.js.map": "/FSD-Tasks-Travel/static/js/main.6e7f9c8f.js.map",
+    "453.8d4e7591.chunk.js.map": "/FSD-Tasks-Travel/static/js/453.8d4e7591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea99deb8.css",
+    "static/js/main.6e7f9c8f.js"
+  ]
+}
